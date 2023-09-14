@@ -844,6 +844,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: MainCharacter
       objectReference: {fileID: 0}
+    - target: {fileID: 1395549969357739519, guid: 2a88c96c9ae1489999614764f93098ba,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.3
+      objectReference: {fileID: 0}
     - target: {fileID: 2021701686668368778, guid: 2a88c96c9ae1489999614764f93098ba,
         type: 3}
       propertyPath: m_LocalPosition.y
@@ -863,6 +868,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Center.y
       value: 0.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 6284155278859687765, guid: 2a88c96c9ae1489999614764f93098ba,
+        type: 3}
+      propertyPath: m_ApplyRootMotion
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
